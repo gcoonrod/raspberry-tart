@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 10319309-d404-463c-a92e-46cfc79e25ed)
+
+  (paper "A4")
+
+  (title_block
+    (title "Raspberry Tart")
+    (date "2023-02-13")
+    (rev "0")
+    (company "Microcode.io")
+    (comment 1 "Raspberry Pi Pico programming hat for Raspberry Pi 3/4")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
