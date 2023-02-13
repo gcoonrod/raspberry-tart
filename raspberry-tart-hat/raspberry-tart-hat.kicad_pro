@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.0,
+          "height": 6.0,
+          "width": 6.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|133100001|128081154|42d7a919-2038-4163-bc24-769fda3c8b46|136b1073-c76c-4487-bb07-4f2d3918ad87",
+        "courtyards_overlap|184750318|128954623|42d7a919-2038-4163-bc24-769fda3c8b46|74780099-70d9-44cf-bd16-abf9846b79f5"
+      ],
       "meta": {
         "version": 2
       },
@@ -338,7 +341,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "warning",
       "similar_labels": "warning",
       "unannotated": "error",
       "unit_value_mismatch": "error",

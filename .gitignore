@@ -13,7 +13,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-raspberry-tart-hat-backups/*
+**/raspberry-tart-hat-backups/*
+**/raspberry_hat-backups/*
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -27,4 +28,4 @@ raspberry-tart-hat-backups/*
 *.csv
 
 # JLCPCB Production Files
-jlcpcb/*
+**/jlcpcb/*
