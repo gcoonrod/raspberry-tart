@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "pihat_footprints")(type "KiCad")(uri "${KIPRJMOD}/parts/raspberrrypi_hat/project_footprints.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/parts/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )

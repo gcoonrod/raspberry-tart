@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "raspberrrypi_hat-cache")(type "Legacy")(uri "${KIPRJMOD}/parts/raspberrrypi_hat/raspberrrypi_hat-cache.lib")(options "")(descr ""))
+  (lib (name "raspberrrypi_hat-rescue")(type "Legacy")(uri "C:/Users/Greg/dev/raspberry-tart/raspberry-tart-hat/parts/raspberrrypi_hat/raspberrrypi_hat-rescue.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/parts/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
 )
